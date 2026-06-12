@@ -16,3 +16,4 @@ const generateContent = async(prompt, retries = 3) => {
         }
     }
 };
+export { generateContent };
